@@ -15,4 +15,6 @@ Feel free to reach out if you have any questions in regards to
 - CoLabora User Group Meeting - January 2022
 
 📅 2021
-- 
+- CoLabora User Group Meeting - December 2021
+- Nordic Virtual Summit 2022, 3rd Edition - November 2021
+- Nordic Virtual Summit 2022, 3rd Edition - May 2021
