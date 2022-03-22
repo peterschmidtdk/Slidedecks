@@ -1,8 +1,11 @@
 # Slide decks from my speaker engagements
 This repository contains a subset of the slide decks I used while presenting and co-presenting with community friends at various conferences, user groups and webinars.
 
-Topics which I often cover are the following:
-
+Here are some of the areas which I often have covered:
+- Microsoft 365
+- Office 365
+- Microsoft Security
+- Azure Security
 
 Feel free to reach out if you have any questions in regards to 
 
