@@ -18,5 +18,5 @@ Feel free to reach out if you have any questions in regards to
 
 📅 2021
 - CoLabora User Group Meeting - December 2021 - Session: [💾 <a href = "https://github.com/peterschmidtdk/Slidedecks/blob/main/2021/2021.12%20-%20CoLabora%20December%202021%20-%20Migrate%20Between%20Office%20365%20Tenants.pdf"> Migrate Between Office 365 Tenants</a>] 
-- Nordic Virtual Summit 2022, 3rd Edition - November 2021
+- Nordic Virtual Summit 2022, 3rd Edition - November 2021 - Session: [💾 <a href = "https://github.com/peterschmidtdk/Slidedecks/blob/main/2021/2021.11%20-%20NVS2021%20-%20PeterSchmidtAndMortenThomsen%20-%20Be%20the%20Information%20Protection%20Hero%20In%20Your%20Organization.pdf"> Be The Information Protection Hero of Your Organization</a>] 
 - Nordic Virtual Summit 2022, 3rd Edition - May 2021
