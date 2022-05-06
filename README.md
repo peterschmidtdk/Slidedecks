@@ -1,4 +1,4 @@
-# Slide decks from my speaker engagements
+# Slide decks from my speaking engagements
 This repository contains a subset of the slide decks I used while presenting and co-presenting with community friends at various conferences, user groups and webinars.
 
 Here are some of the areas which I often have covered:
