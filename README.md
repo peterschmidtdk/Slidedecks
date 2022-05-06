@@ -11,6 +11,7 @@ Feel free to reach out if you have any questions in regards to
 
 ## List of speaking engagements:
 📅 2022
+- Workplace Ninja User Group Denmark Meeting - May 2022 - Session: [💾 <a href = "https://github.com/peterschmidtdk/Slidedecks/blob/main/2022/2022.05%20-%20WorkplaceNinjaDK%20-%20Peter%20Schmidt%20-%20Teams%20Architecture%20Deep%20Dive.pdf"> Microsoft Teams Architecture Deep Dive</a>] 
 - M365 Virtual Marathon - May 2022 - Session: [💾 <a href = "https://github.com/peterschmidtdk/Slidedecks/blob/main/2022/2022.05%20-%20M365VM22%20-%20Peter%20Schmidt%20-%20Mastering%20A%20Tenant-To-Tenant%20Migration.pdf"> Mastering A Tenant-To-Tenant Migration</a>] 
 - Nordic Virtual Summit 2022, 3rd Edition - March 2022 - Session: [💾 <a href = "https://github.com/peterschmidtdk/Slidedecks/blob/main/2022/2022.03%20-%20NVS22%20-%20PeterSchmidtAndMortenThomsen%20-%20Defender%20for%20Business%20Deep%20Dive%20-%20Public.pdf"> Defender for Business - Deep Dive</a>] 
 - CoLabora User Group Meeting - March 2022 - Session: [💾 <a href = "https://github.com/peterschmidtdk/Slidedecks/blob/main/2022/2022.03%20-%20CoLabora%202022%20March%20-%20Going%20Deeper%20into%20Defender%20for%20Business.pdf"> Going Deeper into Defender for Business</a>] 
