@@ -11,6 +11,7 @@ Feel free to reach out if you have any questions in regards to
 
 ## List of speaking engagements:
 📅 2022
+- aMS Berlin 2022 - May 2022 - Session: [💾 <a href = "https://github.com/peterschmidtdk/Slidedecks/blob/main/2022/2022.05.19%20-%20aMS%20Berlin%202022%20-%20Peter%20Schmidt%20-%20A%20Hitchhikers%20Guide%20To%20Microsoft%20Information%20Protect.pdf"> A Hitchhikers Guide to Microsoft Information Protection</a>] 
 - M365 Virtual Marathon - May 2022 - Session: [💾 <a href = "https://github.com/peterschmidtdk/Slidedecks/blob/main/2022/2022.05%20-%20M365VM22%20-%20Peter%20Schmidt%20-%20Protecting%20Your%20Users%20Against%20Phishing%20Attacks.pdf"> Protecting Your Users Against Phishing Attacks</a>] 
 - Workplace Ninja User Group Denmark Meeting - May 2022 - Session: [💾 <a href = "https://github.com/peterschmidtdk/Slidedecks/blob/main/2022/2022.05%20-%20WorkplaceNinjaDK%20-%20Peter%20Schmidt%20-%20Teams%20Architecture%20Deep%20Dive.pdf"> Microsoft Teams Architecture Deep Dive</a>] 
 - M365 Virtual Marathon - May 2022 - Session: [💾 <a href = "https://github.com/peterschmidtdk/Slidedecks/blob/main/2022/2022.05%20-%20M365VM22%20-%20Peter%20Schmidt%20-%20Mastering%20A%20Tenant-To-Tenant%20Migration.pdf"> Mastering A Tenant-To-Tenant Migration</a>] 
