@@ -11,6 +11,7 @@ Feel free to reach out if you have any questions in regards to
 
 ## List of speaking engagements:
 📅 2022
+- Cloud 8 Virtual Summit (2022) - Sep 2022 - Session: [💾 <a href = "https://github.com/peterschmidtdk/Slidedecks/blob/main/2022/2022.09.23%20-%20Cloud8%20-%20Peter%20Schmidt%20-%20Defender%20For%20Business%20Deep%20Dive.pdf"> Defender for Business Deep Dive</a>]
 - NIC X (2022) - June 2022 - Session: [💾 <a href = "https://github.com/peterschmidtdk/Slidedecks/blob/main/2022/2022.06.02%20-%20NIC2022%20-%20Michael%20and%20Peter%20-%20Teams%20Architecture%20Deep%20Dive.pdf"> Teams Architecture Deep Dive</a>]
 - NIC X (2022) - June 2022 - Session: [💾 <a href = "https://github.com/peterschmidtdk/Slidedecks/blob/main/2022/2022.06.02%20-%20NIC2022%20-%20Michael%20and%20Peter%20-%20Deep%20Dive%20-%20Defender%20for%20Office%20%26%20Authenticated%20E-Mail.pdf"> Deep Dive - Defender for Office & Authenticated E-Mail</a>]
 - NIC X (2022) - June 2022 - Session: [💾 <a href = "https://github.com/peterschmidtdk/Slidedecks/blob/main/2022/2022.06.02%20-%20NIC2022%20-%20Michael%20and%20Peter%20-%20Mastering%20a%20Tenant-To-Tenant%20Migration.pdf"> Mastering A Tenant-to-Tenant Migration</a>] 
